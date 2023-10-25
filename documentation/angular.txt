@@ -1,0 +1,6 @@
+ng new builder-page
+ng generate component web-builder
+
+npm i grapesjs
+npm i grapesjs-preset-webpage
+npm i grapesjs-blocks-basic
